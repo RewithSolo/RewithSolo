@@ -1,7 +1,6 @@
 
 
 # Delon1xxxx <img src="https://github.com/user-attachments/assets/4502a525-38fc-4536-a07f-370aa5ebc004" width="60" ></img>
-Average DevOps enjoyer 
 
 
 <div>
