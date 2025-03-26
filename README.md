@@ -19,7 +19,7 @@
 </div>
 
 # Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RewithSolo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RewithSolo)](https://github.com/anuraghazra/github-readme-stat)
 <img src="https://github.com/user-attachments/assets/08050b1f-1eb5-4f08-a3a0-e11be12a0610" name=""/>
 
 
