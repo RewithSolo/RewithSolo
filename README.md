@@ -18,6 +18,15 @@ Focusing on building safety and reliable systems.
 <img src="https://devicon-website.vercel.app/api/terraform/original.svg?size=40"></img>
 </div>
 
+## 🚀 Featured Projects
+
+* **[gitops-multi-env-platform](https://github.com/RewithSolo/gitops-multi-env-platform):** Production-ready local K8s environment (Kind) provisioned via Terraform, managed with ArgoCD (App of Apps), and monitored using Prometheus/Grafana.
+
+## 📫 Connect with Me
+
+* **Telegram:** [@delon1xx](https://t.me/delon1xx)
+* **LinkedIn:** [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ivansolovev1/)
+* **Email:** `ivansolovevwork@gmail.com`
 
 
 
