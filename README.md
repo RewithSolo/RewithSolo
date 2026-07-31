@@ -1,7 +1,9 @@
 
 
-# Delon1xxxx <img src="https://github.com/user-attachments/assets/4502a525-38fc-4536-a07f-370aa5ebc004" width="60" ></img>
+# I'am Ivan <img src="https://github.com/user-attachments/assets/08050b1f-1eb5-4f08-a3a0-e11be12a0610" name="" height="100px" width="100px"/>
+### Infrastructure & DevOps/DevSecOps Engineer
 
+Focusing on building safety and reliability systems.
 
 <div>
 <img src="https://deviconapi.vercel.app/c?size=40"/>
@@ -11,14 +13,12 @@
 <img src="https://deviconapi.vercel.app/bash?size=40"/>
 <img src="https://devicon-website.vercel.app/api/git/original.svg?size=40"></img>
 <img src="https://devicon-website.vercel.app/api/docker/plain.svg?size=40"></img>
-<img src="https://devicon-website.vercel.app/api/figma/original.svg?size=40"></img>
 <img src="https://devicon-website.vercel.app/api/jenkins/original.svg?size=40"></img>
 <img src="https://devicon-website.vercel.app/api/kubernetes/plain.svg?size=40"></img>
 <img src="https://devicon-website.vercel.app/api/terraform/original.svg?size=40"></img>
-
 </div>
 
-<img src="https://github.com/user-attachments/assets/08050b1f-1eb5-4f08-a3a0-e11be12a0610" name=""/>
+
 
 
 
