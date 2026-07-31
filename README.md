@@ -1,6 +1,6 @@
 
 
-# I'am Ivan <img src="https://github.com/user-attachments/assets/08050b1f-1eb5-4f08-a3a0-e11be12a0610" name="" height="100px" width="100px"/>
+# I'm Ivan <img src="https://github.com/user-attachments/assets/08050b1f-1eb5-4f08-a3a0-e11be12a0610" name="" height="100px" width="100px"/>
 ### Infrastructure & DevOps/DevSecOps Engineer
 
 Focusing on building safety and reliability systems.
