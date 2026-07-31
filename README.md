@@ -18,8 +18,6 @@
 
 </div>
 
-# Stats
-[![GitHub stats](https://github-stats-extended.vercel.app/api?username=RewithSolo)](https://github.com/stats-organization/github-stats-extended)
 <img src="https://github.com/user-attachments/assets/08050b1f-1eb5-4f08-a3a0-e11be12a0610" name=""/>
 
 
