@@ -21,6 +21,7 @@ Focusing on building safety and reliable systems.
 ## 🚀 Featured Projects
 
 * **[gitops-multi-env-platform](https://github.com/RewithSolo/gitops-multi-env-platform):** Production-ready local K8s environment (Kind) provisioned via Terraform, managed with ArgoCD (App of Apps), and monitored using Prometheus/Grafana.
+* **[security-ci-cd-pipeline](https://github.com/RewithSolo/security-ci-cd-pipeline):** Automated DevSecOps CI/CD pipeline for Go microservice featuring SAST (Semgrep), Secret scanning (Gitleaks), IaC verification (Checkov), Container scanning (Trivy), GHCR registry publishing, and Kubeconform validation.
 
 ## 📫 Connect with Me
 
