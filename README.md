@@ -43,7 +43,7 @@ Focusing on building safety and reliable systems.
 ## 📫 Connect with Me
 
 * **Telegram:** [@delon1xx](https://t.me/delon1xx)
-* **LinkedIn:** [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ivansolovev1/)
+* **LinkedIn:** [https://linkedin.com/in/ivansolovev1](https://www.linkedin.com/in/ivansolovev1/)
 * **Email:** `ivansolovevwork@gmail.com`
 
 
