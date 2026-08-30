@@ -1,7 +1,7 @@
 
 
 
-# I'm Ivan <img width="80" height="45" alt="hashira-shinobu-kocho" src="https://github.com/user-attachments/assets/f6a7cd0f-1ace-47dc-b4b2-19edd907d82b" />
+# I'm Ivan
 ### Infrastructure & DevOps/DevSecOps Engineer
 
 Focusing on building safety and reliable systems.
